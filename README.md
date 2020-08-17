@@ -1,8 +1,8 @@
 ## Proyecto-McB Primeras Practicas Code
 
-*[Info de la Practica](https://github.com/Martin-Briceno)
-*[Datos Importantes](https://github.com/Martin-Briceno)
-*[Contacto](https://github.com/Martin-Briceno)
+* [Info de la Practica](https://github.com/Martin-Briceno)
+* [Datos Importantes](https://github.com/Martin-Briceno)
+* [Contacto](https://github.com/Martin-Briceno)
 
 ## Acá la nueva Info para Editores de texto
 
