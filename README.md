@@ -13,3 +13,4 @@
 * [VueJs](https://github.com/EscuelaIt/curso-vue-2017)
 * [ReactJs](https://github.com/delacruz-dev/ReactJS-2016)
 * [Componentes-PHP](https://github.com/EscuelaIt/diseno-web-componentes-php-2018.git)
+* [Laravel](https://github.com/EscuelaIt/curso-laravel-5.7.git)
