@@ -15,3 +15,7 @@
 * [Componentes-PHP](https://github.com/EscuelaIt/diseno-web-componentes-php-2018.git)
 * [Laravel](https://github.com/EscuelaIt/curso-laravel-5.7.git)
 * [Frontend](https://github.com/EscuelaIt/taller-frontend-2017)
+* [Web-Componentes](https://github.com/EscuelaIt/diseno-web-componentes-php-2018)
+* [C#](https://github.com/EscuelaIt/curso-csharp)
+* [React-2020](https://github.com/EscuelaIt/react-2020)
+* [LitElement](https://github.com/EscuelaIt/Curso-LitElement)
